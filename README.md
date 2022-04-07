@@ -19,7 +19,7 @@ const Ignacio = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ignacioediaz/r" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2044/PNG/512/linkedin_logo_icon_124342.png" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ignacioediaz/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2044/PNG/512/linkedin_logo_icon_124342.png" height="40" width="40" /></a>
   <a href="https://wa.me/+5493512304901" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2044/PNG/512/whatsapp_logo_icon_124358.png" height="40" width="40" /></a>
 </p>
 ---
