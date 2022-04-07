@@ -12,7 +12,7 @@ const Ignacio = {
   askMeAbout: ["web dev", "tech", "ciclyng", "smartphones"],
   code: ["Javascript", "PostgreSQL", "HTML", "CSS"],
   tools: ["React", "Redux", "Node", "Express", "Typescript"],
-  databases: ["Postgre", "Sequelize"],
+  databases: ["PostgreSQL", "Sequelize"],
   futureProyects: ["React native", "Python"] 
 }
 ```
