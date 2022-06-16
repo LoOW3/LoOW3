@@ -8,7 +8,6 @@
 
 ```javascript
 const Ignacio = {
-  pronouns: "he" | "him",
   askMeAbout: ["web dev", "tech", "ciclyng", "smartphones"],
   code: ["Javascript", "PostgreSQL", "HTML", "CSS"],
   tools: ["React", "Redux", "Node", "Express", "Typescript"],
